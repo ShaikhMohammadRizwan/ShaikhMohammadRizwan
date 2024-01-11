@@ -1,10 +1,11 @@
-![Android](https://github.com/ShaikhMohammadRizwan/ShaikhMohammadRizwan/assets/127223616/117b83ad-f2f3-4eef-81f5-72d6a940602b)- Hi 👋, I'm Rizwan Shaikh
-- 👀 I’m interested in Java
-🔭 I’m currently working on Ghar Ka Khaana
+  I'm Rizwan Shaikh
+  I'm Currently Learning In Bsc It in final year.
+🔭 I’m currently working on Ghar Ka Khaana Project for my final year college Project.
+👀 I’m interested in Java
 🌱 I’m currently learning Java
 💬 Ask me about Java, Html, Css, Pyhton,
 📫 How to reach me shaikhrizwan101324@gmail.com
-Languages and Tools:
+Languages and Tools I Know :
 android
 dart
 figma
